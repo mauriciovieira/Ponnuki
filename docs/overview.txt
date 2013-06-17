@@ -1,0 +1,34 @@
+html5...
+    - crappy internet
+    - run mobile
+        - html 5 (manifest)
+            - appcache is a crappy
+            - canvas
+            - manan : webview -> "android webview, android webview -> wraps into and app"
+    - javascript
+        - requirejs
+        - singlepage
+            - knockout vs angular vs ember
+    - nodejs
+        - socket.io -> websockets
+
+    - don't validations on the server (lightweight server)
+        - fit all kind different turn based games
+        - send messages
+            - client side validations
+
+    - open auth (google+, facebook)
+
+    - room (smaller) "connection"
+        - board (multiple) -> 2 players
+
+
+
+    - board object
+        - rules
+        - rules prevent me to play in a wrong way
+        - rules (the same at the other client)
+            - blocks invalid moves
+
+
+    - good_human -> [canvas -> board -> rules -> connection ] -> smart_server -> [ connection -> board -> rules' -> canvas ] -> bad_human
